@@ -1,0 +1,1 @@
+import{_ as o,o as c,c as _,b as e,w as a,aj as s,ak as r}from"./index-59vPsdGi.js";/* empty css                */const l={};function d(p,u){const n=r,t=s;return c(),_("div",null,[e(t,null,{default:a(()=>[e(n)]),_:1})])}const f=o(l,[["render",d]]);export{f as default};
